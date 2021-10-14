@@ -15,7 +15,7 @@ let slide1 = images[1];
 let slide2 = images[2];
 
 function rightArrow() {
-    if(x == 7) {
+    if(x == 8) {
         x = 0;
         document.getElementById("slide").src = images[0].imgsrc;
     }
@@ -27,7 +27,7 @@ function rightArrow() {
 
 function leftArrow() {
     if(x == 0) {
-        x = 7;
+        x = 8;
         document.getElementById("slide").src = images[x].imgsrc;
     }
     else {

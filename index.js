@@ -6,7 +6,8 @@ let images = [
     {imgsrc:"media/2.jpg"},
     {imgsrc:"media/3.jpg"},
     {imgsrc:"media/4.jpg"},
-    {imgsrc:"media/5.jpg"}
+    {imgsrc:"media/5.jpg"},
+    {imgsrc:"media/6.jpg"}
 ]
 let x = 0;
 let slide0 = images[0];

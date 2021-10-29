@@ -74,3 +74,14 @@ a:hover {
 a:active {
     color: red;
 }
+
+.newThing {
+    color: #67E9B9;
+    
+    
+}
+.newThing:hover {
+    transition-duration: .2s;
+    color: white;
+    
+}
